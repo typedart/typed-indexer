@@ -1,0 +1,21 @@
+{
+  "name": "typed-indexer",
+  "version": "0.0.1",
+  "description": "typed indexer",
+  "main": "index.js",
+  "private": true,
+  "author": "E",
+  "license": "MIT",
+  "homepage": "https://typed.art",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^16.0.1",
+    "got": "^12.1.0",
+    "knex": "^0.95.11",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.0",
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2"
+  }
+}
